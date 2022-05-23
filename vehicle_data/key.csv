@@ -1,0 +1,43 @@
+Severity,
+1,property damage
+2,injury
+3,Injury|Property Damage
+4,Fatal|Property Damage
+5,Fatal|Property Damage|Injury
+,
+Weather,
+1,clear-day
+2,clear-night
+3,cloudy
+4,partly-cloudy-day
+5,partly-cloudy-night
+6,rain
+7,wind
+,
+light,
+1,dawn
+2,day
+3,dusk
+4,night
+,
+Main cause,
+1,Human error
+2,Road defect
+3,Vehicle defect
+,
+Collision type,
+1,Angle (Other)
+2,Head on
+3,Hit animal
+4,Hit object in road
+5,Hit object off road
+6,Hit pedestrian
+7,Overturned vehicle
+8,Rear end
+9,Right angle
+10,Side swipe
+,
+occurred_from,
+0,00:00:00-00:59:59
+1,01:00:00-01:59:59
+etc,
